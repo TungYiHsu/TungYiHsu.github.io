@@ -22,12 +22,17 @@
 }
 
 .avatar img{
-    width: 80%;
+    width: 90%;
     border-radius: 50%;
 }
 
 .content{
     width: 80%;
+}
+
+.content ul{
+    list-style: none;
+    padding: 0;
 }
 
 .contact-me ul{
